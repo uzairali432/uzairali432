@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Javascript projects
@@ -9,7 +9,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about personal development
 - 📫 How to reach me: ghayasali2424@gmail.com
 - 😄 Pronouns: he/him
--->
+
+
+
+#About ME
+
+"I'm a passionate frontend web developer who loves bringing designs to life with clean, efficient, and responsive code. With expertise in HTML, CSS, JavaScript, and modern frameworks, I focus on creating engaging and seamless user experiences. Always eager to learn and innovate, I stay updated with the latest web technologies to craft stunning digital experiences."
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Uzair Ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SyedMuhammad UzairAli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghayasali2424@gmail.com) 
